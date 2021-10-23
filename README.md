@@ -2,7 +2,7 @@
 
 Here is my learning log. It helps me track and share my progress.
 
-Weekly reports || Blog || Portfolio || CV
+[Reports on progress](./progress_log.md) || Blog || Portfolio || CV
 
 ---
 
