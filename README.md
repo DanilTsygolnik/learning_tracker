@@ -1,6 +1,6 @@
 # My Learning Tracker
 
-Здесь представлены результаты моего обучения программированию.
+Here is my learning log. It helps me track and share my progress.
 
 Weekly reports || Blog || Portfolio || CV
 
@@ -10,16 +10,16 @@ Weekly reports || Blog || Portfolio || CV
 
 |Skill|Intry|Basic|Good|Confident|Advanced|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[[python_index\|Python]]|:white_check_mark:|:white_check_mark:||||
-|[[java_index\|Java]]|:white_check_mark:|||||
-|[[Scheme]]|:white_check_mark:|||||
-|[[Git]]|:white_check_mark:|:white_check_mark:||||
-|[[GitHub]]|:white_check_mark:|:white_check_mark:||||
+|Python|&#10004;|&#10004;||||
+|Java|&#10004;|||||
+|Scheme|&#10004;|||||
+|Git|&#10004;|&#10004;||||
+|GitHub|&#10004;|&#10004;||||
 
 ---
 
 ## Learning
 
 |Status|Year|Course|Resourse|
-|:---:|:---:|:---:|:---:|
-|:white_check_mark:|2019|Основы программирования на Python (курс НИУ ВШЭ)<br>[Sertificate](https://coursera.org/share/62426d16b8b0bd9ff3fb2774bd44b360)|coursera.org|
+|:---:|:---:|---|:---:|
+|&#10004;|2019|Programming Fundamentals with Python (HSE University)<br>[Certificate](https://coursera.org/share/62426d16b8b0bd9ff3fb2774bd44b360)|coursera.org|
